@@ -1,0 +1,7 @@
+#Arquivo da chave secreta
+.env
+.venv
+banco.db
+gitattributes
+LICENSE
+__pycache__
